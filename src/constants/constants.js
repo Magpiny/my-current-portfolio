@@ -14,7 +14,7 @@ export const projects = [
   },
   {
     title: 'Chat App',
-    description:" Chat app built with Reactjs and powered by chat engine...",
+    description:"This is an invite only Chat app built with Reactjs and powered by chat engine...",
     image: 'https://ik.imagekit.io/magpiny21/myPortfolio/tod_sKZa8rtu05R.png',
     tags: ['JavaScript','React', 'ChatEngine'],
     source: 'https://github.com/Magpiny/chat-app',
