@@ -18,7 +18,7 @@ export const projects = [
     image: 'https://ik.imagekit.io/magpiny21/myPortfolio/tod_sKZa8rtu05R.png',
     tags: ['JavaScript','React', 'ChatEngine'],
     source: 'https://github.com/Magpiny/chat-app',
-    visit: '',
+    visit: 'https://chat-app-magpiny.vercel.app/',
     id: 1,
   },
   {
