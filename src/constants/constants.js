@@ -46,7 +46,7 @@ export const projects = [
     tags: ['Javascript', 'Browser Storage', 'IndexDB'],
     source: 'https://github.com/Magpiny/ToDoList',
     visit: 'https://to-do-list-blush.vercel.app/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Calculator',
@@ -55,7 +55,16 @@ export const projects = [
     tags: ['Javascript', 'Neumorphic Design', 'Calculator'],
     source: 'https://github.com/Magpiny/jsCalculator',
     visit: 'https://jscalculator1.netlify.app',
-    id: 3,
+    id: 5,
+  },
+   {
+    title: 'Landing Page',
+    description: " Sharpened my CSS skills by building this awesome landing page",
+    image: 'https://ik.imagekit.io/magpiny21/myPortfolio/landingpage_VDiXk8xj_.png?updatedAt=1633523056941',
+    tags: ['HTML', 'CSS', 'Landing Page'],
+    source: 'https://github.com/Magpiny/flexBox-cssGridTutorial',
+    visit: 'https://landingpage-0x1.netlify.app',
+    id: 6,
   },
 ];
 
