@@ -66,6 +66,17 @@ export const projects = [
     visit: 'https://landingpage-0x1.netlify.app',
     id: 6,
   },
+  {
+    title: 'Django Todo App',
+    description: "Started learning django web framework...",
+    image: 'https://ik.imagekit.io/magpiny21/myPortfolio/landingpage_VDiXk8xj_.png?updatedAt=1633523056941',
+    tags: ['HTML', 'CSS', 'Python', 'Django'],
+    source: 'https://github.com/Magpiny/Django-TodoApp',
+    visit: 'https://ik.imagekit.io/magpiny21/myPortfolio/djangoTodo_jzUZNrLWp.png?updatedAt=1636240450869&tr=w-1200,h-630,fo-auto',
+    id: 6,
+  },
+  
+  
 ];
 
 export const TimeLineData = [
