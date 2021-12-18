@@ -58,12 +58,12 @@ export const projects = [
     id: 5,
   },
    {
-    title: 'Landing Page',
-    description: " Sharpened my CSS skills by building this awesome landing page",
-    image: 'https://ik.imagekit.io/magpiny21/myPortfolio/landingpage_VDiXk8xj_.png?updatedAt=1633523056941',
-    tags: ['HTML', 'CSS', 'Landing Page'],
-    source: 'https://github.com/Magpiny/flexBox-cssGridTutorial',
-    visit: 'https://landingpage-0x1.netlify.app',
+    title: 'Students Corner',
+    description: "A chart system where students with common interest can create a room(like fb group) and discuss a common topic/subject",
+    image: 'https://ik.imagekit.io/magpiny21/myPortfolio/studentscorner_eTF3dt8mB.png?updatedAt=1639858053186&tr=w-1200,h-675,fo-auto',
+    tags: ['HTML', 'CSS', 'Python', 'Django', 'Chart System'],
+    source: 'https://github.com/Magpiny/studentcenter',
+    visit: 'https://studentscorner.herokuapp.com',
     id: 6,
   },
   {
@@ -92,3 +92,4 @@ export const data = [
   { number: 2, text: 'Github Followers', },
   { number: 33, text: 'Github Stars', }
 ];
+
