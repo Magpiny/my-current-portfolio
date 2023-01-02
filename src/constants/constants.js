@@ -22,12 +22,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Twirra',
-    description: "Twitter clone made with reactjs on UI, material-ui for styling and firebase on the backend",
-    image: "https://ik.imagekit.io/magpiny21/myPortfolio/twirra1_GdWMy1j8ZUe.png",
-    tags: ['JavaScript','React', 'firebase'],
-    source: 'https://github.com/Magpiny/twirra',
-    visit: 'https://twirra1.web.app/',
+    title: 'Magpiny Blog',
+    description: "My personal blogging platform",
+    image: "https://ik.imagekit.io/magpiny21/myPortfolio/blog_l5IqrcJw2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672682345564&tr=w-1200%2Ch-675%2Cfo-auto",
+    tags: ['JavaScript','React','Tailwind CSS', 'Nextjs', 'Hygraph'],
+    source: 'https://github.com/Magpiny/magpinyblog',
+    visit: 'https://magpinyblog.vercel.app/',
     id: 2,
   },
   {
