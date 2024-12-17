@@ -8,22 +8,25 @@ import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
 
 const Home = () => {
-  
-  return (
-    <Layout>
 
-      <Section grid> 
-        <Hero />
-        <BgAnimation />
-      </Section>
+    return (
+        <Layout>
 
-      <Projects />
-      <Technologies />
-      <Timeline />
-      <Acomplishments />
+            <Section grid>
+                <Hero />
+                <BgAnimation />
+            </Section>
 
-    </Layout>
-  );
+            <Projects />
+
+            <Technologies />
+
+            <Timeline />
+
+            <Acomplishments />
+
+        </Layout>
+    );
 };
 
 export default Home;
