@@ -1,7 +1,9 @@
 // next.config.js
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    reactStrictMode: false, // Optional: Enable React Strict Mode
+    //output: 'export',
+    // Optional: Change the output directory `out` -> `dist`
+    distDir: 'dist',
 
     compiler: {
         styledComponents: true,
